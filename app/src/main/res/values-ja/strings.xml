@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ローカリゼーション</string>
+    <string name="hello_world">こんにちは世界j</string>
+    <string name="change_language_to_jav">日本語に変更</string>
+    <string name="change_language_to_indo">インドネシア語に変更</string>
+</resources>

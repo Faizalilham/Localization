@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lokalisasi</string>
+    <string name="change_language_to_indo">Ubah Ke Bahasa Indonesia</string>
+    <string name="change_language_to_jav">Ubah Ke Bahasa Jepang</string>
+    <string name="hello_world">Hallo dunia</string>
+</resources>
